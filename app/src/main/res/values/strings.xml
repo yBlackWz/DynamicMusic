@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dynamic Island</string>
+    <string name="notification_channel_name">Serviço da Ilha Dinâmica</string>
+    <string name="notification_channel_desc">Mantém a cápsula flutuante de música ativa sobre a tela</string>
+    <string name="notification_title">Dynamic Island ativa</string>
+    <string name="notification_text">Monitorando reprodução de música</string>
+</resources>
